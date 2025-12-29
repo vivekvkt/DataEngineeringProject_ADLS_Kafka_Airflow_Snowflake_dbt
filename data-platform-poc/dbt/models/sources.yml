@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: demo_db
+    database: DEMO_DB
+    schema: PUBLIC
+    description: "Raw data ingested from Kafka via Airflow"
+    tables:
+      - name: raw_orders
+        description: "Raw orders data from Kafka"

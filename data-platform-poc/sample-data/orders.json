@@ -1,0 +1,32 @@
+[
+  {
+    "order_id": 101,
+    "customer": "Amit",
+    "amount": 1200,
+    "event_time": "2025-12-29T14:01:10Z"
+  },
+  {
+    "order_id": 102,
+    "customer": "Neha",
+    "amount": 850,
+    "event_time": "2025-12-29T14:02:15Z"
+  },
+  {
+    "order_id": 103,
+    "customer": "Ravi",
+    "amount": 420,
+    "event_time": "2025-12-29T14:03:20Z"
+  },
+  {
+    "order_id": 104,
+    "customer": "Vivek",
+    "amount": 450,
+    "event_time": "2025-12-29T14:04:05Z"
+  },
+  {
+    "order_id": 105,
+    "customer": "Anup",
+    "amount": 460,
+    "event_time": "2025-12-29T14:05:40Z"
+  }
+]

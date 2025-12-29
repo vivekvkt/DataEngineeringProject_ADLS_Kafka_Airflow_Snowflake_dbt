@@ -1,0 +1,11 @@
+name: 'demo_dbt'
+version: '1.0.0'
+
+profile: 'demo_dbt'
+
+model-paths: ["models"]
+
+target-path: "target"
+clean-targets:
+  - "target"
+  - "dbt_packages"

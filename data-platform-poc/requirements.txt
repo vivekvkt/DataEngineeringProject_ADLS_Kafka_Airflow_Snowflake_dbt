@@ -1,0 +1,4 @@
+kafka-python
+snowflake-connector-python
+snowflake-sqlalchemy
+pandas

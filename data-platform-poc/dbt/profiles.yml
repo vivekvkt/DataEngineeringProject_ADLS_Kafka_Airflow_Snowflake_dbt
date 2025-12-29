@@ -1,0 +1,13 @@
+demo_dbt:
+  target: dev
+  outputs:
+    dev:
+      type: snowflake
+      account: 
+      user: 
+      password: 
+      role: SYSADMIN
+      warehouse: COMPUTE_WH
+      database: DEMO_DB
+      schema: ANALYTICS
+      threads: 4
